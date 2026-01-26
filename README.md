@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Портфолио</title>
 </head>
-Дюпин В. Д.
+Костюк Д.С.
 <body>
 ТГ бот "Гороскоп" <a href="https://github.com/DaniilFinch/TGBOT" >Репозиторий</a> Скрин будет потом
 <br> <a href="https://t.me/Gorouskop_bot" >ТГ Бот</a> Скрин будет потом
