@@ -7,6 +7,5 @@
 <br> Faceit Tracker <a href="https://github.com/DaniilFinch/petproject" >Репозиторий</a> Скрин будет потом
 <br>На этом сайте вы сможете смотреть свою статистику матчей на Faceit.
 <br>Способ связаться: <a href="https://t.me/daniil_finch" >Способ связаться</a>
-<br><img src="screenshot.png" alt="Скриншот" width="600"> Скриншот работы Петпроекта
-</body>
-</html>
+<br><img src="screenshot.png" alt="Скриншот" width="600">
+Скриншот работы Петпроекта
